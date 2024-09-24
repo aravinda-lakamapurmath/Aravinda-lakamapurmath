@@ -9,11 +9,15 @@
 - Building a Django-based web app that processes and visualizes CSV files
 - Working on Azure Data Engineering projects with ADLS and Data Factory
 - Building data pipelines using Apache Airflow and DBT
+- Healthcare Data Insights: AWS-Powered Analytics Pipeline with Power BI
+- Sales Data Intelligence: End-to-End Analytics Pipeline with Azure
+- Tranformation of data using S3 and AWS glue
+
 
 ### 🛠️ Technologies and Tools:
 - **Languages**: Python, SQL (Redshift, Azure SQL)
 - **Frameworks**: Django, Pandas, NumPy
-- **Cloud Platforms**: Azure (Data Factory, Data Lake Storage)
+- **Cloud Platforms**: Azure (Data Factory, Data Lake Storage), AWS (Glue,S3,RDS)
 - **Tools**: Apache Airflow, DBT, Git
 
 ### 🚀 Current Goals:
